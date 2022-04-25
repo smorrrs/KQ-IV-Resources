@@ -7,6 +7,6 @@ By default, if Rosella hits the edge of the screen she will transition to the ne
 The main section is 5 screens tall, and will wrap around if you continue up or down.
 
 # Special Screen Transitions
-Special loading zones are indicated with colored bars. Hitting a bar will move you to a corresponding bar of the same color on the adjacent screen. Rosella's position will be maintained as close as possible, unless there is a black dot in which case that dot is where she'll appear.
+Special loading zones are indicated with colored bars. Hitting a bar will move you to the corresponding bar of the same color on the adjacent screen. Rosella's position will be maintained as close as possible, unless there is a black dot in which case that dot is where she'll appear.
 
-Some transitions are only one way. These are indicated by a black dot inside a larger colored dot. 
+Some transitions are only one way. These are indicated by a black dot inside a larger colored dot.
