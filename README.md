@@ -14,14 +14,15 @@ Resources for speedrunning King's Quest IV: The Perils of Rosella
 - Configuration Guide: https://www.speedrun.com/kings_quest_iv_the_perils_of_rosella/guide/jvf8a
 
 
-**Game Recording Software**
-
-- OBS - https://obsproject.com/
-
-
 **Timer**
 
 - LiveSplit - https://livesplit.org/
+
+
+**Game Recording Software**
+
+- OBS - https://obsproject.com/
+- In Sources, add Window Capture for KQ IV game window, add Window Capture for LiveSplit
 
 
 # References
