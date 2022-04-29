@@ -30,7 +30,7 @@ Resources for speedrunning King's Quest IV: The Perils of Rosella
 - Speedrun.com - https://www.speedrun.com/kings_quest_iv_the_perils_of_rosella
 
 
-**Source Game Scripts**
+**Decompiled Game Scripts**
 
 - SCI-Decompilation-Archive - https://github.com/EricOakford/SCI-Decompilation-Archive/tree/master/kq4
 
