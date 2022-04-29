@@ -9,6 +9,7 @@ King's Quest IV - https://www.gog.com/en/game/kings_quest_4_5_6
 **Emulator** 
 
 QuanVM - https://drive.google.com/file/d/1DhD9QwcOuUMATDCo1TIZMO3hpC1MfvZk/view
+
 Configuration Guide: https://www.speedrun.com/kings_quest_iv_the_perils_of_rosella/guide/jvf8a
 
 **Game Recording Software**
