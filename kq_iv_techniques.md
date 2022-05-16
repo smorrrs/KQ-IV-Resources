@@ -84,9 +84,9 @@ For example, "get frog crown" will be interpreted as "get crown".
 When using the same noun twice in a row, for the second command you can replace the noun with "it". This even works 
 
 For example:
-- shoot horse = shoot arrow at unicorn
-- bridle it = bridle horse
-- ride it = ride horse
+- shoot horse
+- bridle it
+- ride it
 
 This still works with a nounless command used before the second command. For example:
 - put board
