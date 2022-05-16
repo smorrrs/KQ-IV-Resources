@@ -3,8 +3,8 @@ Tech used in speedruns of the game
 
 ## Text Input 
 
-### Synonyms & Efficient Phrasing
-Each verb and noun understood by the text input parser has a list of synonyms it will accept in its stead, so choose the shortest and easiest to type synonym for each term. Also, most prepositional phrases aren't required.
+## Synonyms & Efficient Phrasing
+Each verb and noun understood by the text input parser has a list of synonyms it will accept in its stead, so choose the shortest and easiest to type synonym for each term. Also, most prepositions and prepositional phrases aren't required.
 
 For example,
 - Instead of "take pouch", you can type "get gem"
@@ -12,6 +12,7 @@ For example,
 
 Notable Noun Replacements:
 - pouch > gem
+- portrait > picture
 - latch > lock
 - unicorn > horse
 - lantern > lamp
@@ -36,6 +37,27 @@ Notable Phrase Replacements:
 - put worm on pole > bait pole
 - shoot lolotte > shoot bow
 
+## Quick Typo Recovery
+Hit ESCAPE to exit out of the input box, then start retyping your command from the beginning.
 
-### Quick Re-Type
+## Quick Re-Type
+Hit SPACE to bring up the input box filled with the last text that was typed.
+
+## Noun Stacking 
+When using the same verb twice in a row, for the second command you can hit SPACE to retype the first command, hit SPACE again, then type the new noun. The parser will only read the last noun used, ignoring the noun of the first command.
+
+For example, "get frog crown" will be interpreted as "get crown".
+
+## Pronoun Replacement
+When using the same noun twice in a row, for the second command you can replace the noun with "it". This even works 
+
+For example,
+- shoot horse = shoot arrow at unicorn
+- bridle it = bridle horse
+- ride it = ride horse
+
+This still works with a nounless command used before the second command,
+- put board
+- hop
+- put it
 
