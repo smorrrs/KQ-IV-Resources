@@ -102,9 +102,9 @@ When you want to encounter or avoid a character with a random chance of appearin
 - Worm
 - Cupid
 - Minstrel
-- Pan
+- Pan (if you haven't seen him within the past 2 minutes)
 - Ogre
-- Ogress (not random, but still cyclable)
+- Ogress (not random, but you can cycle to make her disappear quickly)
 - Lord Ghost
 
 ## Save Cycling
