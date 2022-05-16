@@ -20,9 +20,11 @@ Notable examples:
 Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance.
 
 ## Click Prep
-During cutscenes, move the mouse cursor to the next location that it will be used.
+During cutscenes/waiting sections, move the mouse cursor to the next location that it will be used.
 
 For example, put the mouse on the yellow hat during the dwarf cutscene to prepare your mouse position for clicking to move up the mountain path.
+
+This can also be done while hopping through the swamp.
 
 
 # Text Input 
@@ -84,6 +86,7 @@ This still works with a nounless command used before the second command. For exa
 - put board
 - hop
 - put it
+
 
 # RNG Mitigation
 
