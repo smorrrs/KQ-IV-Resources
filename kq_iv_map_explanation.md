@@ -11,19 +11,30 @@ Special loading zones are indicated with colored bars. Hitting a bar will move y
 
 Some transitions are only one way. These are indicated by a black dot inside a larger colored dot.
 
-# Moving Character Locations
-Unicorn
+# Static Character Locations
+All following character locations are RNG-determined upon the first time visiting one of their possible locations and will remain there indefinitely:
+
+Unicorn (will move to another screen if it gets scared and runs off-screen)
 - River East of Start
 - Field North of Unicorn River
 - Forest East of Unicorn River
+
+Feather 
+- Any of the six beach screens of the fairy island
+
+
+# Dynamic Character Locations
+All following character locations are RNG-determined upon visiting any screen of theirs anytime and thus can be screen cycled:
 
 Minstrel
 - Beach South of Fish House
 - Cliff Beach
 - Field with Stump
 
-Pan
-- East of Fish House
+Pan (will not appear again within 2 minutes of the last time you saw him)
+- Field West of Cupid Pool
+- Forest South of Cupid Pool
+- Backside of Fish House
 
 Worm 
 - Forest South of Haunted Mansion
@@ -33,29 +44,33 @@ Ogre
 - Outside Ogre House
 - Forest South of Ogre House
 
-Ogress
-- Outside Ogre House the first time going there after giving Lolotte the unicorn
-
 Shark
 - Any full ocean screen
 
 Whale
 - Any full ocean screen after first visiting Lolotte and before giving her the unicorn
 
+Lord Ghost
+- Mansion Foyer if entering from any other Mansion room
+- Mansion Den 
+- Mansion Dining Room
+- Mansion Kitchen 
+
+
+# Deterministic Character Locations
+All following character locations are determined by fixed conditions:
+
+Ogress
+- Outside Ogre House the first time going there after giving Lolotte the unicorn
+
 Zombies
-- Both graveyard screens during nighttime
+- Both graveyard screens during nighttime, three per screen visit
 - In front of mansion door if nighttime and you don't have the scarab charm
 
 Miser Ghost
 - Mansion Foyer (enter house, go left or right, return to foyer)
 - Mansion Den (enter house, go left)
 - Mansion Dining Room (enter house, go right)
-
-Lord Ghost
-- Mansion Foyer if entering from any other Mansion room
-- Mansion Den 
-- Mansion Dining Room
-- Mansion Kitchen 
 
 
 # Nighttime Differences
