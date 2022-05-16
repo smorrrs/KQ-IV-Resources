@@ -119,7 +119,7 @@ Save right before the point that RNG determines that something will appear or no
 RNG encountered earlier in a run can inform actions later in a run. Take a physical or mental note of RNG encountered.
 
 Unicorn
-- The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later
+- The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later.
 
 Pan 
 - Pan won't re-appear for 2 minutes after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and come back at a later point in the run to not waste a minute of futile screen cycling.
