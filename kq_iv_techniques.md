@@ -24,12 +24,12 @@ Notable Noun Replacements:
 Notable Verb Replacements:
 - take > get 
 - throw > give
-- clean > tidy
 - wear > don
 - place > put
 - jump > hop
 
 Notable Phrase Replacements:
+- clean house > tidy
 - use feather on uvula > tickle
 - blow whistle > toot
 - swing axe > use ax
