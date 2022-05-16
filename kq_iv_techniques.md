@@ -50,6 +50,7 @@ Notable Noun Replacements:
 - lantern > lamp
 - flute > pipe
 - scarab > charm
+- coins > bag
 - cabinet > door
 - possessions > all
 - talisman > amulet
