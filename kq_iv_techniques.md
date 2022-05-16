@@ -56,7 +56,7 @@ For example,
 - bridle it = bridle horse
 - ride it = ride horse
 
-This still works with a nounless command used before the second command,
+This still works with a nounless command used before the second command. For example,
 - put board
 - hop
 - put it
