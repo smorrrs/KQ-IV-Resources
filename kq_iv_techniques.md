@@ -108,7 +108,7 @@ When you want to encounter or avoid a character with a random chance of appearin
 - Lord Ghost
 
 ## Save Cycling
-Save right before the point that RNG determines that something will appear or not, and reload if you get a failure.
+Save right before the point that RNG determines that something will appear or not, and reload until you get a desired result.
 
 - Fish (save 3-4 seconds after starting to fish)
 - Feather (save right before visiting a fairy island beach screen for the first time)
