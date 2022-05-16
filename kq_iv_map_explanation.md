@@ -31,7 +31,7 @@ Minstrel
 - Cliff Beach
 - Field with Stump
 
-Pan (will not appear again within 2 minutes of the last time you saw him)
+Pan (will not re-appear within 2 minutes of the last time you were on a screen with him)
 - Field West of Cupid Pool
 - Forest South of Cupid Pool
 - Backside of Fish House
