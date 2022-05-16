@@ -104,7 +104,7 @@ When you want to encounter or avoid a character with a random chance of appearin
 - Minstrel
 - Pan
 - Ogre
-- Ogress
+- Ogress (not random, but still cyclable)
 - Lord Ghost
 
 ## Save Cycling
