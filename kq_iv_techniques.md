@@ -88,7 +88,7 @@ For example:
 - bridle it
 - ride it
 
-This still works with a nounless command used before the second command. For example:
+This still works with nounless commands used in between the first and second commands. For example:
 - put board
 - hop
 - put it
