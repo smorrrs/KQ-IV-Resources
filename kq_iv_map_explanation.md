@@ -14,7 +14,7 @@ Some transitions are only one way. These are indicated by a black dot inside a l
 # Static Character Locations
 All following character locations are RNG-determined upon the first time visiting one of their possible locations and will remain there indefinitely:
 
-Unicorn (will move to another screen if it gets scared and runs off-screen)
+Unicorn (will move to another of its screen if it runs off-screen)
 - River East of Start
 - Field North of Unicorn River
 - Forest East of Unicorn River
