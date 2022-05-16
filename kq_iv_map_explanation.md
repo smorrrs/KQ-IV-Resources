@@ -43,7 +43,7 @@ Zombies
 - 2 graveyard screens during nighttime
 - In front of mansion door if nighttime and you don't have the scarab charm
 
-Miser Ghost (Fixed Pattern rather than RNG)
+Miser Ghost (fixed pattern rather than RNG)
 - Mansion Foyer (enter house, go left or right, return to foyer)
 - Mansion Den (enter house, go left)
 - Mansion Dining Room (enter house, go right)
