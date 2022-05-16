@@ -117,7 +117,7 @@ Save right before the point that RNG determines that something will appear or no
 - Troll (save right before entering any of the four troll screens)
 
 ## RNG Note Taking
-RNG encountered earlier in a run can inform actions later in a run. Take a physical or mental note of RNG encountered.
+RNG encountered earlier in a run can inform actions later in a run. Take a physical or mental note of RNG encountered for later use:
 
 Unicorn
 - The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later.
