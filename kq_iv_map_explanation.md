@@ -33,6 +33,9 @@ Ogre
 - Outside Ogre House
 - Forest South of Ogre House
 
+Ogress
+- Outside Ogre House the first time going there after giving Lolotte the unicorn
+
 Shark
 - Any full ocean screen
 
