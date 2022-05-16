@@ -100,12 +100,12 @@ This still works with nounless commands used in between the first and second com
 When you want to encounter or avoid a character with a random chance of appearing when visiting a screen, leave and re-enter the screen until they appear or disappear.
 
 - Worm
-- Cupid
+- Cupid (takes 1 second to appear)
 - Minstrel
 - Pan (if you haven't seen him within the past 2 minutes)
 - Ogre
 - Ogress (not random, but you can cycle to make her disappear quickly)
-- Lord Ghost
+- Lord Ghost (takes several seconds to appear)
 
 ## Save Cycling
 Save right before the point that RNG determines that something will appear or not, and reload until you get a desired result.
