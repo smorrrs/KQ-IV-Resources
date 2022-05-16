@@ -41,7 +41,7 @@ Whale
 
 Zombies
 - 2 graveyard screens during nighttime
-- In front of mansion door if you don't have the scarab charm
+- In front of mansion door if nighttime and you don't have the scarab charm
 
 Miser Ghost (Fixed Pattern rather than RNG)
 - Mansion Foyer (enter house, go left or right, return to foyer)
