@@ -33,7 +33,8 @@ Resources for speedrunning King's Quest IV: The Perils of Rosella
 
 **Full Game Map**
 
-- https://raw.githubusercontent.com/smorrrs/KQ-IV-Resources/main/kq_iv_map.png
+- Map - https://raw.githubusercontent.com/smorrrs/KQ-IV-Resources/main/kq_iv_map.png
+- Explanation - https://github.com/smorrrs/KQ-IV-Resources/blob/main/kq_iv_map_explanation.md
 
 
 **Decompiled Game Scripts**
