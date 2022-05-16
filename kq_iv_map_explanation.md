@@ -43,7 +43,7 @@ Whale
 - Any full ocean screen after first visiting Lolotte and before giving her the unicorn
 
 Zombies
-- 2 graveyard screens during nighttime
+- Both graveyard screens during nighttime
 - In front of mansion door if nighttime and you don't have the scarab charm
 
 Miser Ghost (fixed pattern rather than RNG)
