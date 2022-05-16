@@ -11,8 +11,8 @@ Special loading zones are indicated with colored bars. Hitting a bar will move y
 
 Some transitions are only one way. These are indicated by a black dot inside a larger colored dot.
 
-# Static Character Locations
-All following character locations are RNG-determined upon the first time visiting one of their possible locations and will remain there indefinitely:
+# RNG Static Character Locations
+All following character locations are RNG-determined upon the first time visiting one of their possible locations and will remain there indefinitely. These cannot be screen cycled (leave screen and come back) but can be save cycled (save before first visiting screen and reload):
 
 Unicorn (will move to another of its screen if it runs off-screen)
 - River East of Start
@@ -23,8 +23,8 @@ Feather
 - Any of the six beach screens of the fairy island
 
 
-# Dynamic Character Locations
-All following character locations are RNG-determined upon visiting any screen of theirs anytime and thus can be screen cycled:
+# RNG Dynamic Character Locations
+All following character locations are RNG-determined upon any visit to a screen of theirs and can be screen cycled:
 
 Minstrel
 - Beach South of Fish House
