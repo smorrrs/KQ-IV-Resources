@@ -31,7 +31,7 @@ Resources for speedrunning King's Quest IV: The Perils of Rosella
 - Speedrun.com - https://www.speedrun.com/kings_quest_iv_the_perils_of_rosella
 
 
-**Gameplay Techniques**
+**Gameplay Technique List**
 
 - https://github.com/smorrrs/KQ-IV-Resources/blob/main/kq_iv_techniques.md
 
