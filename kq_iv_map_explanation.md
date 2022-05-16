@@ -14,7 +14,7 @@ Some transitions are only one way. These are indicated by a black dot inside a l
 # RNG Static Character Locations
 All following character locations are RNG-determined upon the first time visiting one of their possible locations and will remain there indefinitely. These cannot be screen cycled (leave screen and come back) but can be save cycled (save before first visiting screen and reload):
 
-Unicorn (will move to another of its screen if it runs off-screen)
+Unicorn (will move to another of its screens if it runs off-screen)
 - River East of Start
 - Field North of Unicorn River
 - Forest East of Unicorn River
