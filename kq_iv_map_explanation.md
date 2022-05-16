@@ -59,6 +59,9 @@ Lord Ghost
 - Mansion Dining Room
 - Mansion Kitchen 
 
+Troll (will follow you to next screen if still in one of his four screens, so use save cycling instead of screen cycling)
+- Any of the four black cave screens before the chasm screen
+
 
 ## Deterministic Character Locations
 All following character locations are determined by fixed conditions:
