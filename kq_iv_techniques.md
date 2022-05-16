@@ -19,6 +19,12 @@ Notable examples:
 ## Screen Transition Warping
 Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance.
 
+## Quick Save
+Hit F5 then ENTER to save over the most recent file saved to. Activate function lock if your keyboard doesn't have dedicated function keys.
+
+## Quick Load
+Hit F7 then ENTER to reload the most recent file saved to.
+
 ## Click Prep
 During cutscenes/waiting sections, move the mouse cursor to the next location that it will be used.
 
@@ -94,20 +100,19 @@ This still works with a nounless command used before the second command. For exa
 When you want to encounter or avoid a character with a random chance of appearing when visiting a screen, leave and re-enter the screen until they appear or disappear.
 
 - Worm
-- Cupid (1 second to appear)
+- Cupid
 - Minstrel
 - Pan
 - Ogre
 - Ogress
-- Shark (Up to several seconds to appear)
-- Whale (2-8 seconds to appear)
-- Lord Ghost (Up to several seconds to appear)
+- Lord Ghost
 
 ## Save Cycling
 Save right before the point that RNG determines that something will appear or not, and reload if you get a failure.
 
 - Fish (save 3-4 seconds after starting to fish)
 - Feather (save right before visiting a fairy island beach screen for the first time)
+- Shark & Whale (save right before visiting any full ocean screen)
 - Troll (save right before entering any of the four troll screens)
 
 ## RNG Note Taking
