@@ -5,7 +5,7 @@ Tech used in speedruns of the game
 # General
 
 ## Quick Text Box Dismissal
-Be holding ENTER by the time a dismissable text box appears to immediately dismiss it.
+Hold ENTER by the time a dismissable text box appears to immediately dismiss it.
 
 ## Leverage Lenient Interaction Distances
 Different interactions require different distances to be executed, some of which are very lenient. Use these to your advantage.
