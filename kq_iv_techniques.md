@@ -85,4 +85,33 @@ This still works with a nounless command used before the second command. For exa
 - hop
 - put it
 
+# RNG Mitigation
 
+## Screen Cycling
+When you want to encounter or avoid a character with a random chance of appearing when visiting a screen, leave and re-enter the screen until they appear or disappear.
+
+- Worm
+- Cupid (1 second to appear)
+- Minstrel
+- Pan
+- Ogre
+- Ogress
+- Shark (Up to several seconds to appear)
+- Whale (2-8 seconds to appear)
+- Lord Ghost (Up to several seconds to appear)
+
+## Save Cycling
+Save right before the point that RNG determines that something will appear or not, and reload if you get a failure.
+
+- Fish (save 3-4 seconds after starting to fish)
+- Feather (save right before visiting a fairy island beach screen for the first time)
+- Troll (save right before entering any of the four troll screens)
+
+## RNG Note Taking
+RNG encountered earlier in a run can inform actions later in a run. Take a physical and mental note of RNG encountered.
+
+Unicorn
+- The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later
+
+Pan 
+- Pan won't re-appear for 2 minutes after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and come back at a later point in the run to not waste a minute of futile screen cycling.
