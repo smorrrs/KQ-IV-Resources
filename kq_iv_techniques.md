@@ -4,10 +4,10 @@ Tech used in speedruns of the game
 
 # General
 
-## Quick Text Box Dismissal
+### Quick Text Box Dismissal
 Be holding ENTER by the time a dismissable text box appears to immediately dismiss it.
 
-## Leverage Lenient Interaction Distances
+### Leverage Lenient Interaction Distances
 Different interactions require different distances to be executed, some of which are very lenient. Use these to your advantage.
 
 Notable examples:
@@ -16,10 +16,10 @@ Notable examples:
 - Give book to minstrel while standing behind him
 - Give rattle to baby without moving up
 
-## Screen Transition Warping
+### Screen Transition Warping
 Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance.
 
-## Click Prep
+### Click Prep
 During cutscenes, move the mouse cursor to the next location that it will be used.
 
 For example, put the mouse on the yellow hat during the dwarf cutscene to prepare your mouse position for clicking to move up the mountain path.
@@ -27,7 +27,7 @@ For example, put the mouse on the yellow hat during the dwarf cutscene to prepar
 
 # Text Input 
 
-## Synonyms & Efficient Phrasing
+### Synonyms & Efficient Phrasing
 Each verb and noun understood by the text input parser has a list of synonyms it will accept in its stead, so choose the shortest and easiest to type synonym for each term. Also, most prepositions and prepositional phrases aren't required.
 
 For example:
@@ -61,18 +61,18 @@ Notable Phrase Replacements:
 - put worm on pole > bait pole
 - shoot lolotte > shoot bow
 
-## Quick Typo Recovery
+### Quick Typo Recovery
 Hit ESCAPE to exit out of the input box, then start retyping your command from the beginning.
 
-## Quick Re-Type
+### Quick Re-Type
 Hit SPACE to bring up the input box filled with the last text that was typed.
 
-## Noun Stacking 
+### Noun Stacking 
 When using the same verb twice in a row, for the second command you can hit SPACE to retype the first command, hit SPACE again, then type the new noun. The parser will only read the last noun used, ignoring the noun of the first command.
 
 For example, "get frog crown" will be interpreted as "get crown".
 
-## Pronoun Replacement
+### Pronoun Replacement
 When using the same noun twice in a row, for the second command you can replace the noun with "it". This even works 
 
 For example:
