@@ -10,7 +10,7 @@ For example,
 - Instead of "take pouch", you can type "get gem"
 - Instead of "throw fish to pelican", you can type "give fish"
 
-Notable Replacements:
+Notable Noun Replacements:
 - pouch > gem
 - latch > lock
 - unicorn > horse
@@ -21,6 +21,7 @@ Notable Replacements:
 - possessions > all
 - talisman > amulet
 
+Notable Verb Replacements:
 - take > get 
 - throw > give
 - clean > tidy
@@ -28,6 +29,7 @@ Notable Replacements:
 - place > put
 - jump > hop
 
+Notable Phrase Replacements:
 - use feather on uvula > tickle
 - blow whistle > toot
 - swing axe > use ax
