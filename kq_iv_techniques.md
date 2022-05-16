@@ -26,11 +26,11 @@ Hit F5 then ENTER to save over the most recent file saved to. Activate function 
 Hit F7 then ENTER to reload the most recent file saved to.
 
 ## Click Prep
-During cutscenes/waiting sections, move the mouse cursor to the next location that it will be used.
+During cutscenes/waiting sections, move the mouse cursor to the next location that it will be used using a predetermined visual cue.
 
 For example, put the mouse on the yellow hat during the dwarf cutscene to prepare your mouse position for clicking to move up the mountain path.
 
-This can also be done while hopping through the swamp.
+This is especially useful for navigating the troll cave's chasm so you don't have to do it blindly. Prep a click for crossing the chasm before entering the cave (e.g. while talking to Lolotte), then prep a click for crossing back over the chasm while hopping through the swamp after getting the fruit.
 
 
 # Text Input 
