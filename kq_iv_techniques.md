@@ -103,7 +103,7 @@ When you want to encounter or avoid a character with a random chance of appearin
 - Worm
 - Cupid (takes 1 second to appear)
 - Minstrel
-- Pan (if you haven't seen him within the past 2 minutes)
+- Pan (if you've not yet seen him or it has been at least 20 seconds since he last spawned on screen)
 - Ogre
 - Ogress (not random, but you can cycle to make her disappear quickly)
 - Lord Ghost (takes several seconds to appear)
@@ -123,4 +123,4 @@ Unicorn
 - The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later.
 
 Pan 
-- Pan won't re-appear for 2 minutes after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and come back at a later point in the run to not waste a minute of futile screen cycling.
+- Pan won't re-appear for 20 seconds after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and come back at a later point if possible to not waste time with futile screen cycling.
