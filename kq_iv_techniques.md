@@ -36,7 +36,7 @@ This is especially useful for navigating the troll cave's chasm so you don't hav
 # Text Input 
 
 ## Synonyms & Efficient Phrasing
-Each verb and noun understood by the text input parser has a list of synonyms it will accept in its stead, so choose the shortest and easiest to type synonym for each term. Also, most prepositions and prepositional phrases aren't required.
+Each verb and noun understood by the text input parser has a list of accepted synonyms, so choose the shortest and easiest to type synonym for each term. Also, most prepositions and prepositional phrases can be omitted.
 
 For example:
 - Instead of "take pouch", you can type "get gem"
@@ -46,6 +46,7 @@ Notable Noun Replacements:
 - pouch > gem
 - portrait > picture
 - latch > lock
+- shovel > spade
 - unicorn > horse
 - lantern > lamp
 - flute > pipe
