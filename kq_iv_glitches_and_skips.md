@@ -1,4 +1,4 @@
-# Glitches and Skips
+# Glitches & Skips
 No major glitches or skips are known for the game, so any discovery found could be a game-changer. 
 
 # Theoretical Skips
