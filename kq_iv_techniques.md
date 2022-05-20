@@ -112,7 +112,7 @@ When you want to encounter or avoid a character with a random chance of appearin
 - Minstrel
 - Pan (if you've not yet seen him or it has been at least 20 seconds since he last spawned on screen)
 - Ogre
-- Ogress (not random, but you can cycle to make her disappear quickly)
+- Ogress (not random, but you can cycle once to make her disappear quickly)
 - Lord Ghost (takes several seconds to appear)
 
 ## Save Cycling
