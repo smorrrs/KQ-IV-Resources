@@ -5,7 +5,7 @@ No major glitches or skips are known for the game, so any discovery found could 
 ## Quick Game Time Advancement
 Idea: Find a way quickly progress the in-game time at will.
 
-Usage: Activate night time via game time rather than getHenState + scarab + fruit trigger
+Usage: Activate night time via game time rather than getPandoraBox phase + scarab + fruit trigger
 
 Allows Skipping:
 - Fruit
