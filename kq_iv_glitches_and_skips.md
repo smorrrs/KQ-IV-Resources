@@ -39,6 +39,7 @@ Issue: Need to also find a way to get the gold key or get past Lolotte's door wi
 
 Allows skipping everything exept:
 - Bow
+- (Gold Key)
 - Amulet
 
 Estimated Save: 15 min
