@@ -123,6 +123,8 @@ Save right before the point that RNG determines that something will appear or no
 - Shark & Whale (save right before visiting any full ocean screen)
 - Troll (save right before entering any of the four troll screens)
 
+The unicorn location can also be save cycled, saving right before visiting the first unicorn screen. This isn't generally used though, since time save is very small and all routes at time of writing visit a unicorn screen immediately at run start, so if you need RNG to be that optimized you can just restart the run.
+
 ## RNG Note Taking
 RNG encountered earlier in a run can inform actions later in a run. Take a physical or mental note of RNG encountered for later use:
 
