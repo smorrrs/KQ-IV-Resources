@@ -76,7 +76,7 @@ Notable Phrase Replacements:
 - blow whistle > toot
 - swing axe > use ax
 - put worm on pole > bait pole
-- shoot lolotte > shoot bow
+- shoot unicorn/lolotte > shoot bow
 
 ## Quick Typo Recovery
 Hit ESCAPE to exit out of the input box, then start retyping your command from the beginning.
