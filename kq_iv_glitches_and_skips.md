@@ -4,7 +4,7 @@ No major glitches or skips are known for the game, so any discovery found could 
 # Known Glitches
 If you play the lute or flute at the very edge of a screen (as you transition), you sometimes get weird effects. For example, if you played it, and a zombie got you without the scarab, it'd allow you to control zombie Rosella's movement.  From there, if you could make your way to another screen, the zombie effect would be gone. Also, if you for instance do it while walking away from Lolotte's minions on the mountain, you can walk around out of bounds.
  
-If you walk into the feather, save, reload, you'll jump a pixel up into the feather. If you "get feather" at this point, you'll softlock.
+If you walk into the feather, save, and reload, you'll jump a pixel up into the feather. If you "get feather" at this point, you'll softlock.
 
 # Theoretical Skips
 ## Quick Game Time Advancement
