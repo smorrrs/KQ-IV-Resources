@@ -33,7 +33,7 @@ Allows Skipping:
 Estimated Save: 5-10 min
 
 ## Early Castle
-Idea: Find a way to avoid the goons and get to the castle early
+Idea: Find a way to avoid the goons at the mountain path and get to the castle early
 
 Issue: Need to also find a way to get the gold key or get past Lolotte's door without it
 
