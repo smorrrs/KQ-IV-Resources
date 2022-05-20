@@ -29,11 +29,11 @@ Idea: Find a way to get past the crypt door without the skeleton key
 
 Allows Skipping:
 - Skeleton Key
+- Specifying "gold" when unlocking Lolotte's door
 - Playing Organ
 - Ghosts
 - Triggering Night
 - All things skipped in Quick Time Advancement Skip
-- Specifying "gold" when unlocking Lolotte's door
 
 Estimated Save: 5-10 min
 
