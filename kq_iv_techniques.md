@@ -132,4 +132,4 @@ Unicorn
 - The unicorn stays in the same location it spawns unless it is scared off-screen. Record where you see it at the beginning of the run to reduce time looking for it later.
 
 Pan 
-- Pan won't re-appear for 20 seconds after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and come back at a later point if possible to not waste time with futile screen cycling.
+- Pan won't re-appear for 20 seconds after visiting a screen with him there. If you run into him shortly before you need to get his pipe, keep that in mind and return to a pan screen at a later point if possible to not waste time with futile screen cycling.
