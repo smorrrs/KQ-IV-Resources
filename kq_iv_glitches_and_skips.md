@@ -32,7 +32,8 @@ Allows Skipping:
 - Playing Organ
 - Ghosts
 - Triggering Night
-- (All things skipped in Quick Time Advancement Skip)
+- All things skipped in Quick Time Advancement Skip
+- Specifying "gold" when unlocking Lolotte's door
 
 Estimated Save: 5-10 min
 
