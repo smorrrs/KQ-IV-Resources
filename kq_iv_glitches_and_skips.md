@@ -47,7 +47,7 @@ Allows Skipping:
 Estimated Save: 15 min
 
 ## Desert Island Skip
-Idea: Find a way to leave the desert island without the fish, whistle, or the dolphin
+Idea: Find a way to leave the desert island while bypassing either the fish, whistle, or the dolphin
 
 Allows Skipping:
 - Fish
