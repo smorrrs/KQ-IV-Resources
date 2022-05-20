@@ -37,8 +37,9 @@ Idea: Find a way to avoid the goons at the mountain path and get to the castle e
 
 Issue: Need to also find a way to get the gold key or get past Lolotte's door without it
 
-Allows Skipping:
-- Everything except bow
+Allows skipping everything exept:
+- Bow
+- Amulet
 
 Estimated Save: 15 min
 
