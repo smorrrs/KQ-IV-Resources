@@ -53,6 +53,10 @@ Allows Skipping:
 - Fisherman Cutscene
 - Worm
 
+Estimated Save: 1 min
+
 Combined with any Fruit skip, allows skipping:
 - Pouch
 - Dwarf Cutscene
+
+Estimated Save: 4 min
