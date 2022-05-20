@@ -24,7 +24,7 @@ There are also spots where multiple location-based actions can be taken without 
 
 
 ## Screen Transition Warping
-Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance.
+Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance. See the full game map for their locations.
 
 ## Quick Save
 Hit F5 then ENTER to save over the most recent file saved to. Activate function lock if your keyboard doesn't have dedicated function keys.
