@@ -85,7 +85,7 @@ Hit ESCAPE to exit out of the input box, then start retyping your command from t
 Hit SPACE to bring up the input box filled with the last text that was typed.
 
 ## Noun Stacking 
-When using the same verb twice in a row, for the second command you can hit SPACE to retype the first command, hit SPACE again, then type the new noun. The parser will only read the last noun used, ignoring the noun of the first command.
+When using the same verb twice in a row, for the second command you can hit SPACE to retype the first command, hit SPACE again, then type the new noun. The parser will only read the last noun used, ignoring the first noun.
 
 For example, "get frog crown" will be interpreted as "get crown".
 
