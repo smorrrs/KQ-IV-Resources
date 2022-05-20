@@ -90,12 +90,11 @@ When using the same verb twice in a row, for the second command you can hit SPAC
 For example, "get frog crown" will be interpreted as "get crown".
 
 ## Pronoun Replacement
-When using the same noun twice in a row, for the second command you can replace the noun with "it". This even works 
+When using the same noun twice in a row, for the second command you can replace the noun with "it". 
 
 For example:
-- shoot horse
-- bridle it
-- ride it
+- unlock door
+- open it
 
 This still works with nounless commands used in between the first and second commands. For example:
 - put board
