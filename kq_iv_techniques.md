@@ -18,7 +18,7 @@ Notable examples:
 - Give book to minstrel while standing behind him
 - Give rattle to baby without moving up
 
-There are also spots where multiple location-based actions can be taken without moving in-between:
+There are also spots where multiple location-based actions can be taken without moving in between:
 - Put ball in pond, get frog
 - Give fish to pelican, get whistle
 
