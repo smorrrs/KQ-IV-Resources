@@ -8,13 +8,20 @@ Tech used in speedruns of the game
 Hold ENTER by the time a dismissable text box appears to immediately dismiss it.
 
 ## Leverage Lenient Interaction Distances
-Different interactions require different distances to be executed, some of which are very lenient. Use these to your advantage.
+Different interactions require different distances to be executed, some of which are lenient. Use these to your advantage.
 
 Notable examples:
 - Give amulet to Genesta from anywhere in her room
 - Wear the frog crown anywhere on the waterfall screen
+- Fish from anywhere on the dock
+- Get book from right side of fireplace, allows moving straight left
 - Give book to minstrel while standing behind him
 - Give rattle to baby without moving up
+
+There are also spots where multiple location-based actions can be taken without moving in-between:
+- Put ball in pond, get frog
+- Give fish to pelican, get whistle
+
 
 ## Screen Transition Warping
 Certain screen transitions will move Rosella a certain amount of distance instantly. Routes can leverage these to reduce walking distance.
