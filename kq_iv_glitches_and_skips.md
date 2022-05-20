@@ -19,6 +19,7 @@ Allows Skipping:
 
 Estimated Save: 3-5 min
 
+
 ## Crypt Door Skip
 Idea: Find a way to get past the crypt door without the skeleton key
 
@@ -32,6 +33,7 @@ Allows Skipping:
 
 Estimated Save: 5-10 min
 
+
 ## Early Castle
 Idea: Find a way to avoid the goons at the mountain path and get to the castle early
 
@@ -43,6 +45,9 @@ Allows skipping everything exept:
 - Amulet
 
 Estimated Save: 15 min
+
+Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass one (a perfect up-right diagonal where the line goes up-left? Idk how big Rosella's hit-box is) then run out-of-bounds to the backside of the loading zone.
+
 
 ## Desert Island Skip
 Idea: Find a way to leave the desert island while bypassing either the fish, whistle, or the dolphin
@@ -60,3 +65,5 @@ Combined with any Fruit skip, allows skipping:
 - Dwarf Cutscene
 
 Estimated Save: 4 min
+
+Attempts: The island is set 100 screens away from mainland, and Rosella drowns after 5 screens of swimming. Theoretically if you could bypass drowning you could swim 100 screens to the right, but taking 3 seconds per screen it would take 5 minutes to swim the entire distance (not including shark recovery time), so even with dwarf cutscene skip it still wouldn't be worth it.
