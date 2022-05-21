@@ -1,4 +1,4 @@
-# Tutorial $ Routes
+# Tutorial & Routes
 
 ## Any%
 **Tutorial**
