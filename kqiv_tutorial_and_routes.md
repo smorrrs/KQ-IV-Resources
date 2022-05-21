@@ -66,17 +66,21 @@ Final Dash to Genesta
 
 After “get frog”:
 - “kiss it” instead of “[NOUN STACK] crown”
+
 Witch hut after “get charm”: 
 - “give eye”
+
 After killing lolotte: 
 - Enter 2nd floor hall
 - Enter first room
 - “get pandora box”
 - “get hen”
+
 Leaving castle: 
 - go in stable
 - approach center post
 - “open gate”
+
 After navigating goon path: 
 - go to crypt
 - “climb”
@@ -85,6 +89,7 @@ After navigating goon path:
 - leave
 - “shut door”
 - “lock it”
+
 Dash to Genesta from crypt
 - You should have 218 points at this point
 - Route: https://youtu.be/YVbpWlHylUE
