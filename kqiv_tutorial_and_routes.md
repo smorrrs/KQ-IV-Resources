@@ -74,7 +74,7 @@ After killing lolotte:
 - Enter 2nd floor hall
 - Enter first room
 - “get pandora box”
-- “get hen”
+- “[NOUN STACK] hen”
 
 Leaving castle: 
 - go in stable
