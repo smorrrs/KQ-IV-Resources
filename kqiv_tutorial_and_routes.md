@@ -7,7 +7,7 @@ https://youtu.be/dil0nFUsdg8
 
 **Written Route**
 
-Pre-start setup
+Pre-start setup:
 Save - Increase Speed - Buffer First Input - Prep Mouse Click
 
 First Pass: Meet Lolotte
