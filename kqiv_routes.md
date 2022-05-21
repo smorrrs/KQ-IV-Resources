@@ -1,11 +1,6 @@
-# Tutorial & Routes
+# Routes
 
 ## Any%
-**Tutorial**
-
-https://youtu.be/dil0nFUsdg8
-
-**Written Route**
 
 Pre-start setup
 - Save 
