@@ -1,6 +1,6 @@
 # Tutorial $ Routes
 
-## Any% Tutorial
+## Any%
 **Tutorial**
 
 https://youtu.be/dil0nFUsdg8
