@@ -57,6 +57,8 @@ Estimated Save: 15 min
 
 Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass them then run out-of-bounds to the backside of the loading zone.
 
+![image](https://user-images.githubusercontent.com/104397629/169710346-5a5e61d6-03c9-4ecb-9240-61d2301e3dc3.png)
+
 
 ## Desert Island Skip
 Idea: Find a way to leave the desert island while bypassing either the fish, whistle, or the dolphin
