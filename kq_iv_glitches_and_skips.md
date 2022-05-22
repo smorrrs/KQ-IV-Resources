@@ -1,7 +1,7 @@
 # Glitches & Skips
 No major glitches or skips are known for the game, so any discovery found could be a game-changer. 
 
-It's been said playing the lute/flute while transitioning screens can lead to strange behavior like nullifying deaths and walking out-of-bounds, but I haven't been able to reproduce this in the SCI version. Other items that have an effect (don crown, read book, toot) may have a similar effect.
+It's been said playing the lute/flute while transitioning screens can lead to strange behavior like nullifying deaths and walking out-of-bounds, but I haven't been able to reproduce this in the SCI version. Other items that have an effect (don crown, read book, toot) may have a similar effect and be faster.
 
 Walking into the feather then doing a save-reload will teleport Rosella one pixel into the feather. The same trick doesn't appear to work to get past doors.
 
