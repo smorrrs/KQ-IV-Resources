@@ -56,6 +56,10 @@ Resources for speedrunning King's Quest IV: The Perils of Rosella
 - SCI Companion - http://scicompanion.com/
 
 
+**Glitch Hunting**
+- https://github.com/smorrrs/KQ-IV-Resources/blob/main/kq_iv_glitches_and_skips.md
+
+
 **Copyright Protection Answer Key**
 
 - https://steamuserimages-a.akamaihd.net/ugc/93847163969928951/7461C720C122DEA895CFADCAAF570EA5AEB7BE69/
