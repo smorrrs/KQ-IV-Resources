@@ -1,7 +1,7 @@
 # Glitches & Skips
 No major glitches or skips are known for the game, so any discovery found could be a game-changer. 
 
-It's been said playing the lute/flute while transitioning screens can lead to strange behavior like nullifying deaths and walking out-of-bounds, but I haven't been able to reproduce this in the SCI version.
+It's been said playing the lute/flute while transitioning screens can lead to strange behavior like nullifying deaths and walking out-of-bounds, but I haven't been able to reproduce this in the SCI version. Other items that have an animation (don crown, read book) may have a similar effect.
 
 Walking into the feather then doing a save-reload will teleport Rosella one pixel into the feather. The same trick doesn't appear to work to get past doors.
 
@@ -37,6 +37,10 @@ Allows Skipping:
 - All things skipped in Quick Time Advancement Skip
 
 Estimated Save: 5-10 min
+
+Attempts: If the flute transition glitch really does work to move out-of-bounds (white pixels), you could flute glitch onto this screen and walk into the yellow loading zone.
+
+![image](https://user-images.githubusercontent.com/104397629/169710195-dc5c53e9-7b54-43dc-a2c2-94d35325b69c.png)
 
 
 ## Early Castle
