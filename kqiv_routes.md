@@ -85,6 +85,6 @@ After navigating goon path:
 - “shut door”
 - “lock it”
 
-Dash to Genesta from crypt
+Dash to Genesta from crypt:
 - You should have 218 points at this point
 - Route: https://youtu.be/YVbpWlHylUE
