@@ -51,7 +51,7 @@ Allows skipping everything exept:
 
 Estimated Save: 15 min
 
-Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass one then run out-of-bounds to the backside of the loading zone.
+Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass them then run out-of-bounds to the backside of the loading zone.
 
 
 ## Desert Island Skip
