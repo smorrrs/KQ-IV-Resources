@@ -1,6 +1,11 @@
 # Glitches & Skips
 No major glitches or skips are known for the game, so any discovery found could be a game-changer. 
 
+It's been said playing the lute/flute while transitioning screens can lead to strange behavior like nullifying deaths and walking out-of-bounds, but I haven't been able to reproduce this in the SCI version.
+
+Walking into the feather then doing a save-reload will teleport Rosella one pixel into the feather. The same trick doesn't appear to work to get past doors.
+
+
 # Theoretical Skips
 ## Quick Game Time Advancement
 Idea: Find a way quickly progress the in-game time at will.
@@ -46,7 +51,7 @@ Allows skipping everything exept:
 
 Estimated Save: 15 min
 
-Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass one (a perfect up-right diagonal where the line goes up-left? Idk how big Rosella's hit-box is) then run out-of-bounds to the backside of the loading zone.
+Attempts: Setting the game to min speed and rushing up the path, you can just get halfway to the loading zone. The fall triggers on this screen are only 1 pixel wide, so one idea is to try to bypass one then run out-of-bounds to the backside of the loading zone.
 
 
 ## Desert Island Skip
