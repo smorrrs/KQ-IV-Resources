@@ -5,6 +5,17 @@ It's been said playing the lute/flute while transitioning screens can lead to st
 
 Walking into the feather then doing a save-reload will teleport Rosella one pixel into the feather. The same trick doesn't appear to work to get past doors.
 
+# Scarabless
+The game can be beaten without the scarab (and thus without visiting the witch or grabbing the axe)
+
+Ghost Section
+https://youtu.be/ck2JMEhFtYU?si=-XD920VF3SfUDeOA
+
+Crypt
+https://media.discordapp.net/attachments/272841126220660747/1235709789263364106/kq4_-_scarabless_pandora.mp4?ex=66355bec&is=66340a6c&hm=a5deb86d725291c4d7f528388a1bc4a26651a05a05ddc2c2f60c167cfd223b6a&
+
+Scarabless box can be done by performing an animation (lute, flute, bow, crown) on same frame as leaving crypt.
+
 
 # Theoretical Skips
 ## Quick Game Time Advancement
