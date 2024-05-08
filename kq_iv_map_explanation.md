@@ -86,4 +86,4 @@ Miser Ghost
 
 # Other Notes
 - Riding the dolphin places you on the beach below the start screen
-- The pelican island is programmed to be 100 screens away from mainland
+- The pelican island is programmed to be 100 screens south and 101 screens west of the starting beach screen. These coordinates are altered while Rosella appears as her riding-a-dolphin sprite
